@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lastbear version="0.1-1">
+	<group id="001">
+		<mission name="001" scale="1">
+			<shape>
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="200.0" y="0.0" />
+				<coordinate x="200.0" y="200.0" />
+				<coordinate x="0.0" y="200.0" />
+			</shape>
+			<piece>
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="200.0" y="0.0" />
+				<coordinate x="200.0" y="200.0" />
+				<coordinate x="0.0" y="200.0" />
+			</piece>
+		</mission>
+		<mission name="002" scale="1">
+			<shape>
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="424.2639" y="0.0" />
+				<coordinate x="424.2639" y="282.8426" />
+				<coordinate x="0.0" y="282.8426" />
+			</shape>
+			<piece>
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="100.0" y="0.0" />
+				<coordinate x="100.0" y="282.8426" />
+				<coordinate x="0.0" y="282.8426" />
+			</piece>
+			<piece>
+				<coordinate x="100.0" y="0.0" />
+				<coordinate x="282.8426" y="0.0" />
+				<coordinate x="141.4213" y="141.4213" />
+				<coordinate x="282.8426" y="282.8426" />
+				<coordinate x="100.0" y="282.8426" />
+			</piece>
+			<piece>
+				<coordinate x="282.8426" y="0.0" />
+				<coordinate x="424.2639" y="141.4213" />
+				<coordinate x="282.8426" y="282.8426" />
+				<coordinate x="141.4213" y="141.4213" />
+			</piece>
+			<piece>
+				<coordinate x="282.8426" y="0.0" />
+				<coordinate x="424.2639" y="0.0" />
+				<coordinate x="424.2639" y="141.4213" />
+			</piece>
+			<piece>
+				<coordinate x="424.2639" y="141.4213" />
+				<coordinate x="424.2639" y="282.8426" />
+				<coordinate x="282.8426" y="282.8426" />
+			</piece>
+		</mission>
+		<mission name="003" unit="1" rotate="180" yscale="0.95">
+			<shape>
+				<coordinate x="0.9142" y="0.0" />
+				<coordinate x="1.9142" y="0.0" />
+				<coordinate x="1.9142" y="1.0" />
+				<coordinate x="1.4142" y="1.0" />
+				<coordinate x="2.4142" y="2.0" />
+				<coordinate x="2.8284" y="1.5858" />
+				<coordinate x="2.8284" y="3.0" />
+				<coordinate x="1.9142" y="3.0" />
+				<coordinate x="1.9142" y="6.0" />
+				<coordinate x="1.4142" y="6.5" />
+				<coordinate x="0.9142" y="6.0" />
+				<coordinate x="0.9142" y="3.0" />
+				<coordinate x="0.0" y="3.0" />
+				<coordinate x="0.0" y="1.5858" />
+				<coordinate x="0.4142" y="2.0" />
+				<coordinate x="1.4142" y="1.0" />
+				<coordinate x="0.9142" y="1.0" />
+			</shape>
+			<piece type="A">
+				<coordinate x="0.9142" y="0.0" />
+				<coordinate x="1.9142" y="0.0" />
+				<coordinate x="1.9142" y="1.0" />
+				<coordinate x="0.9142" y="1.0" />
+			</piece>
+			<piece type="B">
+				<coordinate x="1.4142" y="1.0" />
+				<coordinate x="2.4142" y="2.0" />
+				<coordinate x="1.4142" y="3.0" />
+				<coordinate x="0.4142" y="2.0" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0" y="1.5858" />
+				<coordinate x="1.4142" y="3.0" />
+				<coordinate x="0.0" y="3.0" />
+			</piece>
+			<piece type="D">
+				<coordinate x="2.8284" y="1.5858" />
+				<coordinate x="2.8284" y="3.0" />
+				<coordinate x="1.4142" y="3.0" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.9142" y="3.0" />
+				<coordinate x="1.9142" y="3.0" />
+				<coordinate x="0.9142" y="4.0" />
+			</piece>
+			<piece type="F">
+				<coordinate x="0.9142" y="4.0" />
+				<coordinate x="1.9142" y="3.0" />
+				<coordinate x="1.9142" y="5.0" />
+				<coordinate x="0.9142" y="6.0" />
+			</piece>
+			<piece type="G">
+				<coordinate x="0.9142" y="6.0" />
+				<coordinate x="1.9142" y="5.0" />
+				<coordinate x="1.9142" y="6.0" />
+			</piece>
+			<piece type="H">
+				<coordinate x="0.9142" y="6.0" />
+				<coordinate x="1.9142" y="6.0" />
+				<coordinate x="1.4142" y="6.5" />
+			</piece>
+		</mission>
+	</group>
+</lastbear>

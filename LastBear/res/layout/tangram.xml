@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.lastbear.TangramPlay
+        android:id="@+id/tangram_play"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.lastbear.Assistant
+        android:id="@+id/tangram_assistant"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.lastbear.TangramDone
+        android:id="@+id/tangram_done"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>

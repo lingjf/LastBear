@@ -1,0 +1,1345 @@
+<?xml version="1.0" encoding="utf-8"?>
+<lastbear version="0.1-1">
+	<group id="401">
+		<mission name="1100" unit="1.0" xscale="0.7">
+			<shape>
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="4.0" y="0.0" />
+				<coordinate x="4.0" y="4.0" />
+				<coordinate x="0.0" y="4.0" />
+			</shape>
+			<piece type="A">
+				<coordinate x="1.0" y="1.0" />
+				<coordinate x="3.0" y="1.0" />
+				<coordinate x="2.0" y="2.0" />
+			</piece>
+			<piece type="A">
+				<coordinate x="3.0" y="3.0" />
+				<coordinate x="4.0" y="2.0" />
+				<coordinate x="4.0" y="4.0" />
+			</piece>
+			<piece type="D">
+				<coordinate x="2.0" y="2.0" />
+				<coordinate x="3.0" y="1.0" />
+				<coordinate x="4.0" y="2.0" />
+				<coordinate x="3.0" y="3.0" />
+			</piece>
+			<piece type="C">
+				<coordinate x="2.0" y="0.0" />
+				<coordinate x="4.0" y="0.0" />
+				<coordinate x="4.0" y="2.0" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="2.0" y="2.0" />
+				<coordinate x="0.0" y="4.0" />
+			</piece>
+			<piece type="B">
+				<coordinate x="2.0" y="2.0" />
+				<coordinate x="4.0" y="4.0" />
+				<coordinate x="0.0" y="4.0" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0" y="0.0" />
+				<coordinate x="2.0" y="0.0" />
+				<coordinate x="3.0" y="1.0" />
+				<coordinate x="1.0" y="1.0" />
+			</piece>
+		</mission>
+		<mission name="1200" rotate="0" xscale="0.6">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="141.4210" y="141.4220" />
+				<coordinate x="141.4210" y="282.8430" />
+				<coordinate x="-0.0020" y="424.2630" />
+				<coordinate x="-141.4230" y="282.8420" />
+				<coordinate x="-141.4220" y="141.4210" />
+			</shape>
+			<piece type="A">
+				<coordinate x="-141.4230" y="282.8420" />
+				<coordinate x="-0.0010" y="282.8420" />
+				<coordinate x="-70.7120" y="353.5530" />
+			</piece>
+			<piece type="A">
+				<coordinate x="70.7100" y="212.1320" />
+				<coordinate x="70.7090" y="353.5530" />
+				<coordinate x="-0.0010" y="282.8420" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4210" y="141.4220" />
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="141.4210" y="141.4220" />
+				<coordinate x="-0.0020" y="282.8430" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="-0.0010" y="282.8420" />
+				<coordinate x="-141.4230" y="282.8420" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-0.0010" y="282.8420" />
+				<coordinate x="70.7090" y="353.5530" />
+				<coordinate x="-0.0020" y="424.2630" />
+				<coordinate x="-70.7120" y="353.5530" />
+			</piece>
+			<piece type="E">
+				<coordinate x="141.4220" y="141.4210" />
+				<coordinate x="141.4210" y="282.8430" />
+				<coordinate x="70.7090" y="353.5530" />
+				<coordinate x="70.7100" y="212.1320" />
+			</piece>
+		</mission>
+		<mission name="1300" rotate="0" yscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0010" />
+				<coordinate x="99.9990" y="400.0010" />
+				<coordinate x="-0.0010" y="500.0010" />
+				<coordinate x="-100.0010" y="400.0010" />
+				<coordinate x="-100.0000" y="100.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="-0.0010" y="400.0010" />
+				<coordinate x="-100.0010" y="300.0010" />
+				<coordinate x="-0.0010" y="300.0010" />
+			</piece>
+			<piece type="A">
+				<coordinate x="99.9990" y="400.0010" />
+				<coordinate x="-0.0010" y="500.0010" />
+				<coordinate x="-0.0010" y="400.0010" />
+			</piece>
+			<piece type="B">
+				<coordinate x="100.0000" y="100.0010" />
+				<coordinate x="-100.0010" y="300.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-100.0010" y="300.0010" />
+				<coordinate x="100.0000" y="100.0020" />
+				<coordinate x="99.9990" y="300.0020" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="100.0010" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-0.0010" y="300.0010" />
+				<coordinate x="99.9990" y="300.0010" />
+				<coordinate x="99.9990" y="400.0010" />
+				<coordinate x="-0.0010" y="400.0010" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-100.0010" y="300.0010" />
+				<coordinate x="-0.0010" y="400.0010" />
+				<coordinate x="-0.0010" y="500.0010" />
+				<coordinate x="-100.0010" y="400.0010" />
+			</piece>
+		</mission>
+		<mission name="1400" rotate="0" yscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="-200.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="400.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="-200.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="400.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0000" y="200.0010" />
+				<coordinate x="-0.0010" y="0.0010" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+		</mission>
+		<mission name="1500" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="-200.0000" y="300.0000" />
+				<coordinate x="-200.0000" y="200.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-200.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+				<coordinate x="-200.0000" y="300.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+		</mission>
+		<mission name="1600" rotate="0" xscale="0.6">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="400.0000" />
+				<coordinate x="0.0000" y="400.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="400.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="400.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="200.0000" y="400.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+		</mission>
+		<mission name="1700" rotate="0" xscale="0.7">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="70.7110" y="353.5540" />
+				<coordinate x="-70.7100" y="494.9750" />
+				<coordinate x="-141.4210" y="424.2640" />
+				<coordinate x="-141.4210" y="141.4220" />
+			</shape>
+			<piece type="A">
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7110" y="70.7110" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-70.7100" y="353.5540" />
+				<coordinate x="70.7110" y="353.5540" />
+				<coordinate x="0.0000" y="424.2640" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="-141.4210" y="141.4220" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4210" y="424.2640" />
+				<coordinate x="-141.4210" y="141.4220" />
+				<coordinate x="0.0000" y="282.8430" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-70.7100" y="353.5540" />
+				<coordinate x="70.7110" y="212.1330" />
+				<coordinate x="70.7110" y="353.5540" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-70.7100" y="353.5540" />
+				<coordinate x="0.0000" y="424.2640" />
+				<coordinate x="-70.7100" y="494.9750" />
+				<coordinate x="-141.4210" y="424.2640" />
+			</piece>
+			<piece type="E">
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="70.7110" y="212.1320" />
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="0.0000" y="141.4210" />
+			</piece>
+		</mission>
+		<mission name="1800" rotate="0" yscale="0.8">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="212.1320" y="212.1320" />
+				<coordinate x="212.1320" y="494.9750" />
+				<coordinate x="70.7110" y="494.9750" />
+				<coordinate x="0.0000" y="424.2640" />
+			</shape>
+			<piece type="A">
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="141.4210" y="141.4220" />
+				<coordinate x="70.7110" y="212.1320" />
+			</piece>
+			<piece type="A">
+				<coordinate x="141.4210" y="424.2640" />
+				<coordinate x="0.0000" y="424.2640" />
+				<coordinate x="70.7100" y="353.5530" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="424.2640" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="141.4210" y="282.8430" />
+			</piece>
+			<piece type="B">
+				<coordinate x="212.1320" y="212.1320" />
+				<coordinate x="212.1320" y="494.9750" />
+				<coordinate x="70.7110" y="353.5540" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="0.0000" y="141.4210" />
+			</piece>
+			<piece type="D">
+				<coordinate x="141.4210" y="141.4220" />
+				<coordinate x="212.1320" y="212.1320" />
+				<coordinate x="141.4210" y="282.8430" />
+				<coordinate x="70.7110" y="212.1320" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="424.2640" />
+				<coordinate x="141.4210" y="424.2640" />
+				<coordinate x="212.1320" y="494.9750" />
+				<coordinate x="70.7110" y="494.9750" />
+			</piece>
+		</mission>
+		<mission name="1900" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="-0.0010" />
+				<coordinate x="200.0010" y="99.9990" />
+				<coordinate x="200.0010" y="299.9990" />
+				<coordinate x="-100.0950" y="300.0010" />
+				<coordinate x="-99.9990" y="100.0010" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0010" y="99.9990" />
+				<coordinate x="200.0010" y="199.9990" />
+				<coordinate x="100.0010" y="199.9990" />
+			</piece>
+			<piece type="A">
+				<coordinate x="200.0010" y="199.9990" />
+				<coordinate x="100.0010" y="99.9990" />
+				<coordinate x="200.0010" y="99.9990" />
+			</piece>
+			<piece type="B">
+				<coordinate x="100.0020" y="299.9990" />
+				<coordinate x="-99.9990" y="100.0010" />
+				<coordinate x="100.0010" y="99.9990" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-99.9990" y="100.0010" />
+				<coordinate x="99.9050" y="300.0970" />
+				<coordinate x="-100.0950" y="300.0010" />
+			</piece>
+			<piece type="C">
+				<coordinate x="200.0010" y="99.9990" />
+				<coordinate x="0.0010" y="100.0000" />
+				<coordinate x="100.0000" y="-0.0010" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0010" y="199.9990" />
+				<coordinate x="200.0010" y="199.9990" />
+				<coordinate x="200.0010" y="299.9990" />
+				<coordinate x="100.0010" y="299.9990" />
+			</piece>
+			<piece type="E">
+				<coordinate x="100.0000" y="-0.0010" />
+				<coordinate x="0.0010" y="100.0000" />
+				<coordinate x="-99.9990" y="100.0010" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+		</mission>
+		<mission name="2000" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="282.8430" y="282.8420" />
+				<coordinate x="-282.8430" y="282.8430" />
+			</shape>
+			<piece type="B">
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="141.4210" y="141.4210" />
+			</piece>
+			<piece type="B">
+				<coordinate x="282.8430" y="282.8420" />
+				<coordinate x="0.0010" y="282.8430" />
+				<coordinate x="141.4210" y="141.4210" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="-70.7110" y="212.1320" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-141.4210" y="282.8420" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="0.0000" y="282.8430" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-70.7110" y="70.7110" />
+				<coordinate x="-70.7110" y="212.1320" />
+				<coordinate x="-141.4210" y="141.4210" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="-70.7110" y="212.1320" />
+				<coordinate x="-141.4210" y="282.8430" />
+				<coordinate x="-212.1320" y="212.1320" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-141.4210" y="282.8430" />
+				<coordinate x="-282.8430" y="282.8430" />
+				<coordinate x="-212.1320" y="212.1320" />
+			</piece>
+		</mission>
+		<mission name="2100" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="399.9930" y="200.0070" />
+				<coordinate x="-200.0000" y="200.0000" />
+			</shape>
+			<piece type="B">
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="399.9930" y="200.0070" />
+				<coordinate x="199.9930" y="200.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-200.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="200.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0010" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-99.9990" y="200.0010" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="0.0010" y="200.0000" />
+			</piece>
+		</mission>
+		<mission name="2200" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="282.8430" y="141.4210" />
+				<coordinate x="282.8430" y="282.8430" />
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</shape>
+			<piece type="A">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</piece>
+			<piece type="A">
+				<coordinate x="212.1320" y="70.7110" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="141.4210" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="141.4210" y="141.4210" />
+			</piece>
+			<piece type="B">
+				<coordinate x="282.8430" y="282.8430" />
+				<coordinate x="0.0000" y="282.8430" />
+				<coordinate x="141.4210" y="141.4210" />
+			</piece>
+			<piece type="C">
+				<coordinate x="282.8430" y="282.8430" />
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="282.8430" y="141.4210" />
+			</piece>
+			<piece type="D">
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="141.4210" y="0.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="212.1320" y="70.7110" />
+				<coordinate x="282.8430" y="141.4210" />
+				<coordinate x="141.4210" y="141.4210" />
+			</piece>
+		</mission>
+		<mission name="2300" rotate="0" xscale="0.80">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="299.9990" y="300.0000" />
+				<coordinate x="0.0000" y="299.9990" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="100.0000" y="199.9990" />
+				<coordinate x="0.0000" y="299.9990" />
+				<coordinate x="0.0000" y="199.9990" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="99.9990" y="299.9990" />
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="299.9990" y="300.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="100.0000" y="299.9990" />
+				<coordinate x="0.0000" y="299.9990" />
+				<coordinate x="100.0000" y="199.9990" />
+			</piece>
+		</mission>
+		<mission name="2400" rotate="0" xscale="0.98">
+			<shape>
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="0.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-100.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="0.0000" />
+			</piece>
+		</mission>
+		<mission name="2500" rotate="0" xscale="0.90">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="100.0000" y="400.0000" />
+				<coordinate x="-100.0000" y="399.9890" />
+				<coordinate x="-100.0000" y="200.0000" />
+				<coordinate x="-200.0000" y="200.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="400.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-200.0000" y="200.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="400.0000" />
+				<coordinate x="-100.0000" y="399.9890" />
+				<coordinate x="0.0050" y="299.9950" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="-100.0000" y="300.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="100.0000" y="400.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+			</piece>
+		</mission>
+		<mission name="2600" rotate="0" xscale="0.8">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="141.4180" y="-141.4250" />
+				<coordinate x="141.4250" y="141.4170" />
+				<coordinate x="0.0000" y="282.8410" />
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="-141.4210" y="-141.4220" />
+			</shape>
+			<piece type="A">
+				<coordinate x="70.7090" y="-70.7130" />
+				<coordinate x="70.7130" y="70.7090" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="0.0040" y="141.4210" />
+				<coordinate x="-141.4170" y="141.4260" />
+				<coordinate x="-70.7090" y="70.7130" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="-141.4210" y="-141.4220" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4220" y="141.4210" />
+				<coordinate x="141.4210" y="141.4190" />
+				<coordinate x="0.0000" y="282.8410" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0040" y="141.4220" />
+				<coordinate x="141.4210" y="-0.0040" />
+				<coordinate x="141.4250" y="141.4170" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-70.7090" y="70.7130" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7130" y="70.7090" />
+				<coordinate x="0.0040" y="141.4210" />
+			</piece>
+			<piece type="E">
+				<coordinate x="141.4180" y="-141.4250" />
+				<coordinate x="141.4210" y="-0.0040" />
+				<coordinate x="70.7130" y="70.7090" />
+				<coordinate x="70.7090" y="-70.7130" />
+			</piece>
+		</mission>
+		<mission name="2700" rotate="45" xscale="0.90">
+			<shape>
+				<coordinate x="0.0000" y="-200.0000" />
+				<coordinate x="199.9990" y="0.0010" />
+				<coordinate x="50.0000" y="0.0000" />
+				<coordinate x="50.0000" y="400.0000" />
+				<coordinate x="-50.0000" y="400.0000" />
+				<coordinate x="-50.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="0.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="50.0000" y="100.0000" />
+				<coordinate x="-50.0000" y="0.0000" />
+				<coordinate x="50.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-50.0000" y="300.0000" />
+				<coordinate x="50.0000" y="200.0000" />
+				<coordinate x="50.0000" y="300.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="-200.0000" />
+				<coordinate x="199.9990" y="0.0010" />
+				<coordinate x="-0.0010" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-200.0000" y="0.0000" />
+				<coordinate x="0.0000" y="-200.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-50.0000" y="300.0000" />
+				<coordinate x="-50.0000" y="100.0000" />
+				<coordinate x="50.0000" y="200.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-50.0000" y="300.0000" />
+				<coordinate x="50.0000" y="300.0000" />
+				<coordinate x="50.0000" y="400.0000" />
+				<coordinate x="-50.0000" y="400.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="50.0000" y="200.0000" />
+				<coordinate x="-50.0000" y="100.0000" />
+				<coordinate x="-50.0000" y="0.0000" />
+				<coordinate x="50.0000" y="100.0000" />
+			</piece>
+		</mission>
+		<mission name="2800" rotate="180" yscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0010" />
+				<coordinate x="200.0980" y="500.0000" />
+				<coordinate x="0.0980" y="500.0980" />
+				<coordinate x="0.0510" y="400.0980" />
+				<coordinate x="100.0510" y="400.0510" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="100.0510" y="400.0510" />
+				<coordinate x="0.0980" y="500.0980" />
+				<coordinate x="0.0510" y="400.0980" />
+			</piece>
+			<piece type="B">
+				<coordinate x="199.9990" y="200.0010" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0010" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0980" y="500.0980" />
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="200.0980" y="500.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="400.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="200.0000" y="300.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+		</mission>
+		<mission name="2900" rotate="0" yscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="70.5750" y="495.0450" />
+				<coordinate x="141.2510" y="565.7900" />
+				<coordinate x="-141.5920" y="565.6510" />
+				<coordinate x="-70.8470" y="494.9750" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</shape>
+			<piece type="A">
+				<coordinate x="-70.7110" y="212.1320" />
+				<coordinate x="-70.7110" y="70.7110" />
+				<coordinate x="0.0000" y="141.4210" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-0.1710" y="565.7210" />
+				<coordinate x="-141.5920" y="565.6510" />
+				<coordinate x="-70.8470" y="494.9750" />
+			</piece>
+			<piece type="B">
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="70.7120" y="353.5540" />
+				<coordinate x="-70.7100" y="212.1330" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-70.8470" y="494.9750" />
+				<coordinate x="-70.7100" y="212.1330" />
+				<coordinate x="70.6430" y="353.6220" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-70.8470" y="494.9750" />
+				<coordinate x="70.6450" y="353.6240" />
+				<coordinate x="70.5750" y="495.0450" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="0.0000" y="141.4210" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-70.8470" y="494.9750" />
+				<coordinate x="70.5750" y="495.0450" />
+				<coordinate x="141.2510" y="565.7900" />
+				<coordinate x="-0.1710" y="565.7210" />
+			</piece>
+		</mission>
+		<mission name="3000" rotate="0" xscale="0.85">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="300.0000" y="0.0000" />
+				<coordinate x="299.9990" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="300.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="99.9990" y="300.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="99.9990" y="299.9990" />
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="299.9990" y="300.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="100.0000" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="300.0000" y="100.0000" />
+				<coordinate x="200.0000" y="200.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+			</piece>
+		</mission>
+		<mission name="3100" rotate="0" xscale="0.95">
+			<shape>
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="99.9990" />
+				<coordinate x="100.0010" y="199.9990" />
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="-199.9990" y="300.0000" />
+				<coordinate x="-99.9990" y="200.0000" />
+				<coordinate x="-99.9990" y="100.0000" />
+				<coordinate x="-200.0000" y="0.0010" />
+			</shape>
+			<piece type="A">
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="100.0010" y="199.9990" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="100.0000" y="99.9990" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0010" y="200.0000" />
+				<coordinate x="-200.0000" y="0.0010" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="200.0000" y="300.0000" />
+				<coordinate x="0.0000" y="300.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0010" y="300.0000" />
+				<coordinate x="-199.9990" y="300.0000" />
+				<coordinate x="-99.9990" y="200.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-99.9990" y="100.0000" />
+				<coordinate x="0.0010" y="200.0000" />
+				<coordinate x="0.0010" y="300.0000" />
+				<coordinate x="-99.9990" y="200.0000" />
+			</piece>
+		</mission>
+		<mission name="3200" rotate="0" xscale="0.7">
+			<shape>
+				<coordinate x="141.4210" y="-141.4220" />
+				<coordinate x="99.9990" y="-100.0010" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="141.4240" y="241.4190" />
+				<coordinate x="-141.4190" y="241.4240" />
+				<coordinate x="-100.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="-100.0000" />
+				<coordinate x="-141.4220" y="-141.4200" />
+			</shape>
+			<piece type="A">
+				<coordinate x="-100.0000" y="-100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="-100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="200.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4220" y="-141.4200" />
+				<coordinate x="141.4210" y="-141.4220" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4240" y="241.4190" />
+				<coordinate x="-141.4190" y="241.4240" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="99.9990" y="-100.0010" />
+				<coordinate x="100.0010" y="99.9990" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-100.0000" y="0.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="200.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+		</mission>
+		<mission name="3300" rotate="0" xscale="0.8">
+			<shape>
+				<coordinate x="0.0000" y="-282.8430" />
+				<coordinate x="141.4210" y="-141.4210" />
+				<coordinate x="141.4210" y="0.0000" />
+				<coordinate x="70.7110" y="70.7100" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-70.7110" y="70.7110" />
+				<coordinate x="-141.4210" y="0.0000" />
+				<coordinate x="-141.4200" y="-141.4220" />
+			</shape>
+			<piece type="A">
+				<coordinate x="-141.4210" y="0.0000" />
+				<coordinate x="-141.4200" y="-141.4220" />
+				<coordinate x="-70.7100" y="-70.7100" />
+			</piece>
+			<piece type="A">
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="70.7110" y="70.7100" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4210" y="-141.4210" />
+				<coordinate x="141.4210" y="-141.4210" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4210" y="-141.4210" />
+				<coordinate x="-141.4210" y="-141.4210" />
+				<coordinate x="0.0000" y="-282.8430" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="-141.4210" y="0.0000" />
+				<coordinate x="-70.7110" y="-70.7110" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="-70.7110" y="70.7110" />
+			</piece>
+			<piece type="E">
+				<coordinate x="141.4210" y="-141.4220" />
+				<coordinate x="141.4210" y="0.0000" />
+				<coordinate x="70.7110" y="70.7100" />
+				<coordinate x="70.7110" y="-70.7110" />
+			</piece>
+		</mission>
+		<mission name="3400" rotate="0" xscale="0.95">
+			<shape>
+				<coordinate x="200.0000" y="-100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="-100.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="200.0000" y="-0.0010" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-100.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="-100.0000" />
+				<coordinate x="-100.0000" y="-100.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="100.0000" y="-100.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="-100.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="100.0000" y="-100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="-100.0000" />
+				<coordinate x="200.0000" y="-100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-200.0000" y="-100.0000" />
+				<coordinate x="-100.0000" y="0.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="0.0000" />
+			</piece>
+		</mission>
+		<mission name="3500" rotate="0" xscale="0.8">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="300.0000" y="0.0010" />
+				<coordinate x="300.0030" y="282.8440" />
+				<coordinate x="158.5800" y="141.4240" />
+				<coordinate x="200.0000" y="100.0010" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="99.9990" y="200.0010" />
+				<coordinate x="141.4210" y="158.5800" />
+				<coordinate x="282.8410" y="300.0030" />
+				<coordinate x="-0.0020" y="300.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="99.9990" y="200.0010" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0010" />
+			</piece>
+			<piece type="B">
+				<coordinate x="282.8410" y="300.0030" />
+				<coordinate x="-0.0020" y="300.0000" />
+				<coordinate x="141.4210" y="158.5800" />
+			</piece>
+			<piece type="B">
+				<coordinate x="300.0000" y="0.0010" />
+				<coordinate x="300.0030" y="282.8440" />
+				<coordinate x="158.5800" y="141.4240" />
+			</piece>
+			<piece type="C">
+				<coordinate x="-0.0020" y="300.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+				<coordinate x="99.9990" y="200.0010" />
+			</piece>
+			<piece type="D">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="0.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="300.0000" y="0.0010" />
+				<coordinate x="200.0000" y="100.0010" />
+				<coordinate x="100.0000" y="100.0010" />
+				<coordinate x="200.0000" y="0.0010" />
+			</piece>
+		</mission>
+		<mission name="3600" rotate="0" xscale="0.7">
+			<shape>
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="70.7080" y="212.1400" />
+				<coordinate x="141.4160" y="282.8530" />
+				<coordinate x="70.7030" y="353.5610" />
+				<coordinate x="-70.7180" y="353.5560" />
+				<coordinate x="-141.4270" y="282.8430" />
+				<coordinate x="-70.7130" y="212.1350" />
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="-70.7110" y="70.7100" />
+				<coordinate x="-70.7110" y="-70.7110" />
+			</shape>
+			<piece type="A">
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="70.7110" y="70.7110" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-0.0050" y="282.8480" />
+				<coordinate x="-141.4270" y="282.8430" />
+				<coordinate x="-70.7130" y="212.1350" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4210" y="141.4210" />
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="-141.4210" y="141.4210" />
+				<coordinate x="141.4210" y="141.4320" />
+				<coordinate x="-0.0050" y="282.8480" />
+			</piece>
+			<piece type="C">
+				<coordinate x="70.7110" y="-70.7110" />
+				<coordinate x="-70.7110" y="70.7100" />
+				<coordinate x="-70.7110" y="-70.7110" />
+			</piece>
+			<piece type="D">
+				<coordinate x="70.7080" y="212.1400" />
+				<coordinate x="141.4160" y="282.8530" />
+				<coordinate x="70.7030" y="353.5610" />
+				<coordinate x="-0.0050" y="282.8480" />
+			</piece>
+			<piece type="E">
+				<coordinate x="-141.4270" y="282.8430" />
+				<coordinate x="-0.0050" y="282.8480" />
+				<coordinate x="70.7030" y="353.5610" />
+				<coordinate x="-70.7180" y="353.5560" />
+			</piece>
+		</mission>
+		<mission name="3700" rotate="0" xscale="0.99">
+			<shape>
+				<coordinate x="100.0000" y="-100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="141.4220" y="141.4210" />
+				<coordinate x="-141.4210" y="141.4220" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="-0.0010" />
+				<coordinate x="-100.0000" y="-100.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="100.0000" y="-100.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="100.0000" y="0.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="-100.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="99.9990" />
+				<coordinate x="-200.0000" y="-0.0010" />
+			</piece>
+			<piece type="B">
+				<coordinate x="100.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="-100.0000" />
+				<coordinate x="100.0000" y="-100.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="141.4220" y="141.4210" />
+				<coordinate x="-141.4210" y="141.4220" />
+				<coordinate x="0.0000" y="0.0000" />
+			</piece>
+			<piece type="C">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="-200.0000" y="-0.0010" />
+				<coordinate x="-100.0000" y="-100.0000" />
+			</piece>
+			<piece type="D">
+				<coordinate x="100.0000" y="0.0000" />
+				<coordinate x="200.0000" y="0.0000" />
+				<coordinate x="200.0000" y="100.0000" />
+				<coordinate x="100.0000" y="100.0000" />
+			</piece>
+			<piece type="E">
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="-100.0000" y="100.0000" />
+				<coordinate x="-200.0000" y="100.0000" />
+				<coordinate x="-100.0000" y="0.0000" />
+			</piece>
+		</mission>
+		<mission name="3800" rotate="0" xscale="1">
+			<shape>
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="300.0000" y="-0.0020" />
+				<coordinate x="500.0000" y="199.9980" />
+				<coordinate x="399.9940" y="199.9990" />
+				<coordinate x="499.9960" y="299.9980" />
+				<coordinate x="299.9960" y="300.0000" />
+			</shape>
+			<piece type="A">
+				<coordinate x="299.9980" y="200.0000" />
+				<coordinate x="200.0000" y="99.9980" />
+				<coordinate x="300.0000" y="100.0000" />
+			</piece>
+			<piece type="A">
+				<coordinate x="399.9940" y="199.9990" />
+				<coordinate x="299.9960" y="300.0000" />
+				<coordinate x="299.9940" y="200.0000" />
+			</piece>
+			<piece type="B">
+				<coordinate x="200.0020" y="199.9980" />
+				<coordinate x="0.0000" y="0.0000" />
+				<coordinate x="200.0000" y="-0.0020" />
+			</piece>
+			<piece type="B">
+				<coordinate x="300.0000" y="-0.0020" />
+				<coordinate x="500.0000" y="199.9980" />
+				<coordinate x="300.0000" y="199.9980" />
+			</piece>
+			<piece type="C">
+				<coordinate x="499.9960" y="299.9980" />
+				<coordinate x="299.9960" y="300.0000" />
+				<coordinate x="399.9950" y="199.9990" />
+			</piece>
+			<piece type="D">
+				<coordinate x="200.0000" y="-0.0020" />
+				<coordinate x="300.0000" y="-0.0020" />
+				<coordinate x="300.0000" y="99.9980" />
+				<coordinate x="200.0000" y="99.9980" />
+			</piece>
+			<piece type="E">
+				<coordinate x="200.0000" y="99.9980" />
+				<coordinate x="299.9980" y="200.0000" />
+				<coordinate x="299.9950" y="300.0000" />
+				<coordinate x="199.9980" y="199.9980" />
+			</piece>
+		</mission>
+	</group>
+</lastbear>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+
+    <com.lastbear.CreditView
+        android:id="@+id/credit_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    
+    <com.shared.GIFView
+        android:id="@+id/credit_river"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <com.lastbear.Assistant
+        android:id="@+id/credit_assistant"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+</FrameLayout>
